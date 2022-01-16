@@ -5,6 +5,6 @@ Doing this Practice project gave me the ability to learn SQL and PowerBI to enha
 
 https://muhammadabasit.wordpress.com/
 
-Along with that, I was able to pubish my PowerBI Sales Analysis:
+Along with that, I was able to pubish my PowerBI Dashboard of my Sales Analysis:
 
 https://app.powerbi.com/view?r=eyJrIjoiMDYxNDVmYTQtMjc1Zi00YmU0LWI4OWUtMDAzYTdiMTZmY2E5IiwidCI6IjBjODBlZWU3LTJkMGEtNDY4ZS05NGU4LWJjNDViNzE0Yzg3NCIsImMiOjF9
